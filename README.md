@@ -1,2 +1,2 @@
 # first-repo
-My first GitHub Repository 09282018
+My first GitHub Repository 08282018
